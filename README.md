@@ -1,6 +1,6 @@
 #HW2 Shell Program
-#### First-Name Last-Name
-TODO - Update your name in this readme.
+#### Abhigna Khandra
+
 
 TODO - Add a badge from travis CI here
 
