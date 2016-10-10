@@ -1,6 +1,8 @@
 #HW2 Shell Program
-#### First-Name Last-Name
+#### Abhigna Khandra
 TODO - Update your name in this readme.
+[![Build Status](https://travis-ci.org/scorpianabhi/hw2-template.svg?branch=master)](https://travis-ci.org/scorpianabhi/hw2-template)
+
 
 TODO - Add a badge from travis CI here
 
